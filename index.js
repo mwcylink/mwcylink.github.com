@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     const urls = [
-        'http://www.mwanime.com',
+        'https://www.mwanime.com',
         '',
         ''
     ];
