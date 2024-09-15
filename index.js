@@ -1,7 +1,7 @@
 document.addEventListener('DOMContentLoaded', function() {
     const urls = [
-        'https://anime.mwcy.net',
-        'https://dm1.mwcy.net',
+        'http://www.mwanime.com',
+        '',
         ''
     ];
 
