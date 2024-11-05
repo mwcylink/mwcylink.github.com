@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     const urls = [
-        'https://www.catwcy.com',
+        'https://www.mwcy.net',
         '',
         ''
     ];
